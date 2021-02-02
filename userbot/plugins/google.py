@@ -2,7 +2,9 @@
 Available Commands:
 .gs <query>
 
-.grs"""
+.grs
+
+.p"""
 
 
 
