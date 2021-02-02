@@ -44,7 +44,7 @@ async def hmm(yes):
     await yes.delete()
     uptime = await dcdef.get_readable_time((time.time() - Lastupdate))
     pm_caption = "**Asuna Is Here for you**\n\n"
-    pm_caption += "**Konichiwa Dragon Darlign, I am here with you, What to do next?**\n\n"
+    pm_caption += "**Konichiwa Dragon Darling, I am here with you, What to do next?**\n\n"
     pm_caption += "✘ About My Specs ✘\n\n"
     pm_caption += f"➾ **Telethon Version** ☞ {version.__version__}\n"
     pm_caption += "➾ **Support Channel** ☞ [ᴊᴏɪɴ](https://t.me/Dark_cobra_support)\n"
