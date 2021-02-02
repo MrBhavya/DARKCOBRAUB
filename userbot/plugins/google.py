@@ -9,6 +9,7 @@ Available Commands:
 
 
 import requests
+import os
 from bs4 import BeautifulSoup
 from datetime import datetime
 from google_images_download import google_images_download
