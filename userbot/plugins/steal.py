@@ -1,4 +1,3 @@
-from pyrogram import filters
 from bot import bot
 import os
 from bs4 import BeautifulSoup
